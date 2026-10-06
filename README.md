@@ -1,6 +1,6 @@
 # Parametric and structure-aware information theory
 
-This repository accompanies the article *Parametric and structure-aware information theory for multi-scale analysis of composition*.
+This repository accompanies Sahasrabuddhe and Lambiotte (2026). *Parametric and structure-aware information theory for multi-scale analysis of composition*. [arXiv:2603.22237v2](https://arxiv.org/abs/2603.22237v2)
 
 ## File structure
 + `data`: Data files for the case studies.
